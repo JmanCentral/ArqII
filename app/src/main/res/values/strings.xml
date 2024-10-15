@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TrabaoConJSON</string>
+    <string name="tv_titulo">Calculando nota final</string>
+    <string name="txt_nombre">Nombre del estudiante</string>
+    <string name="txt_asignatura">Nombre de la asignatura</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_buscar">Mostrar</string>
+    <string name="fecha">""</string>
+    <string name="txt_nota1">Corte 1</string>
+    <string name="txt_nota2">Corte 2</string>
+    <string name="txt_nota3">Corte 3</string>
+    <string name="nota_final">""</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="txt_buscar">Estudiante a buscar</string>
+    <string name="tv_titulo2">Eliga una asignatura</string>
+</resources>
